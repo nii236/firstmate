@@ -1,0 +1,7 @@
+ARMOUT:
+watcher: started pid=36959 (beacon fresh)
+DOWN: pending:downtime:36959.1793261273.sqDUqJ ACK: acked:handling:34364.1793261260.7M94gB
+arm_pid=33772	watcher_pid=33867	origin=started	started_at=1793261260	ended_at=1793261269	exit_code=143	signal=TERM	reason=signal-exit	beacon_age=9	lock_before=pid:33867|identity:Thu Oct 29 08:07:40 2026     bash /Users/nii236/.no-mistakes/worktrees/8d1633f2d204/01M63B1QAQ0NPQP6G5MR4H801T/bin/fm-watch.sh	lock_after=pid:none|identity:none	successor=none
+arm_pid=35121	watcher_pid=33867	origin=attached	started_at=1793261261	ended_at=1793261269	exit_code=unknown	signal=unknown	reason=taken-over	beacon_age=9	lock_before=pid:33867|identity:Thu Oct 29 08:07:40 2026     bash /Users/nii236/.no-mistakes/worktrees/8d1633f2d204/01M63B1QAQ0NPQP6G5MR4H801T/bin/fm-watch.sh	lock_after=pid:none|identity:none	successor=started:36959
+arm_pid=35121	watcher_pid=36959	origin=started	started_at=1793261269	ended_at=1793261273	exit_code=143	signal=TERM	reason=arm-interrupted	beacon_age=1	lock_before=pid:36959|identity:Thu Oct 29 08:07:49 2026     bash /Users/nii236/.no-mistakes/worktrees/8d1633f2d204/01M63B1QAQ0NPQP6G5MR4H801T/bin/fm-watch.sh	lock_after=pid:none|identity:none	successor=none
+ok - watch-arm: --take-over confirms a watcher slow to honor its stop and resurfaces nothing

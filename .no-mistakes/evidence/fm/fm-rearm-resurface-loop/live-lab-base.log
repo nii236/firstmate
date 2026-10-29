@@ -1,0 +1,14 @@
+[16:15:51] lab=/private/var/folders/yn/y4sw263d2tvd_65258ydhn_40000gn/T/fm-lab.KhhqXT
+[16:15:52] owner arm: watcher: started pid=44132 (beacon fresh)
+[16:15:52] drain stdout: 1793261752	1	signal	lab	signal: lab fixture handled by main | stderr: WAKE_ACK_REQUIRED: after handling completes run bin/fm-wake-drain.sh --ack-through 1 --recovery-generation 43990.1793261752.Eg2Y4t 
+[16:15:53] acked through 1 gen 43990.1793261752.Eg2Y4t
+[16:15:53] .watcher-down after ack: acked:handling:43990.1793261752.Eg2Y4t
+[16:15:53] main parks: fm-watch-arm.sh --take-over 44025 (stopped watcher will take 25s to close)
+[16:17:20] take-over arm ended (cycle 1): watcher: attached pid=44132 (beacon 13s) watcher: FAILED - cycle ended without an actionable reason 
+[16:17:20] drain stdout: <empty> | stderr: WAKE_ACK_REQUIRED: after handling completes run bin/fm-wake-drain.sh --ack-through 0 --recovery-generation 44132.1793261778.Hguv6W 
+[16:17:20] acked through 0 gen 44132.1793261778.Hguv6W
+[16:17:48] take-over arm output so far: watcher: started pid=59767 (beacon fresh) 
+[16:17:48] .watcher-down now: acked:handling:44132.1793261778.Hguv6W (acked was: acked:handling:43990.1793261752.Eg2Y4t)
+[16:17:48] cycle-exit ledger reasons: reason=signal-exit reason=attached-cycle-ended 
+RESULT: wake cycles delivered during 90s observation after slow stop = 1; rearm-resurface lines = 0
+[16:17:51] lab removed: yes

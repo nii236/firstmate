@@ -1,0 +1,11 @@
+[16:13:42] lab=/private/var/folders/yn/y4sw263d2tvd_65258ydhn_40000gn/T/fm-lab.v03N1l
+[16:13:43] owner arm: watcher: started pid=22728 (beacon fresh)
+[16:13:43] drain stdout: 1793261623	1	signal	lab	signal: lab fixture handled by main | stderr: WAKE_ACK_REQUIRED: after handling completes run bin/fm-wake-drain.sh --ack-through 1 --recovery-generation 22654.1793261623.vXR3y9 
+[16:13:43] acked through 1 gen 22654.1793261623.vXR3y9
+[16:13:43] .watcher-down after ack: acked:handling:22654.1793261623.vXR3y9
+[16:13:43] main parks: fm-watch-arm.sh --take-over 22691 (stopped watcher will take 25s to close)
+[16:15:38] take-over arm output so far: watcher: started pid=28674 (beacon fresh) 
+[16:15:38] .watcher-down now: acked:handling:22654.1793261623.vXR3y9 (acked was: acked:handling:22654.1793261623.vXR3y9)
+[16:15:38] cycle-exit ledger reasons: beacon_age=27 beacon_age=27 
+RESULT: wake cycles delivered during 90s observation after slow stop = 0; rearm-resurface lines = 0
+[16:15:42] lab removed: yes

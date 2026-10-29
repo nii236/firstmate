@@ -1,0 +1,3 @@
+not ok - the take-over did not own a fresh cycle after a slow stop: watcher: attached pid=41163 (beacon 10s)
+watcher: FAILED - cycle ended without an actionable reason
+exit=1

@@ -1,0 +1,159 @@
+[16:10:15] lab=/var/folders/yn/y4sw263d2tvd_65258ydhn_40000gn/T//fm-lab.hXqxZF
+[16:11:30] owner arm: watcher: FAILED - refusing to arm from a disposable validation checkout: /Users/nii236/.no-mistakes/worktrees/8d1633f2d204/01M63B1QAQ0NPQP6G5MR4H801T/bin
+[16:11:31] drain stdout: 1793261490	1	signal	lab	signal: lab fixture handled by main | stderr: WAKE_ACK_REQUIRED: after handling completes run bin/fm-wake-drain.sh --ack-through 1 --recovery-generation 67662.1793261491.Fx6tSi 
+[16:11:31] acked through 1 gen 67662.1793261491.Fx6tSi
+[16:11:31] .watcher-down after ack: acked:handling:67662.1793261491.Fx6tSi
+[16:11:31] main parks: fm-watch-arm.sh --take-over 67699 (stopped watcher will take 25s to close)
+[16:11:32] take-over arm ended (cycle 1): watcher: FAILED - refusing to arm from a disposable validation checkout: /Users/nii236/.no-mistakes/worktrees/8d1633f2d204/01M63B1QAQ0NPQP6G5MR4H801T/bin 
+[16:11:33] drain stdout: <empty> | stderr: 
+[16:11:34] take-over arm ended (cycle 2): watcher: FAILED - refusing to arm from a disposable validation checkout: /Users/nii236/.no-mistakes/worktrees/8d1633f2d204/01M63B1QAQ0NPQP6G5MR4H801T/bin 
+[16:11:34] drain stdout: <empty> | stderr: 
+[16:11:36] take-over arm ended (cycle 3): watcher: FAILED - refusing to arm from a disposable validation checkout: /Users/nii236/.no-mistakes/worktrees/8d1633f2d204/01M63B1QAQ0NPQP6G5MR4H801T/bin 
+[16:11:36] drain stdout: <empty> | stderr: 
+[16:11:37] take-over arm ended (cycle 4): watcher: FAILED - refusing to arm from a disposable validation checkout: /Users/nii236/.no-mistakes/worktrees/8d1633f2d204/01M63B1QAQ0NPQP6G5MR4H801T/bin 
+[16:11:37] drain stdout: <empty> | stderr: 
+[16:11:39] take-over arm ended (cycle 5): watcher: FAILED - refusing to arm from a disposable validation checkout: /Users/nii236/.no-mistakes/worktrees/8d1633f2d204/01M63B1QAQ0NPQP6G5MR4H801T/bin 
+[16:11:39] drain stdout: <empty> | stderr: 
+[16:11:40] take-over arm ended (cycle 6): watcher: FAILED - refusing to arm from a disposable validation checkout: /Users/nii236/.no-mistakes/worktrees/8d1633f2d204/01M63B1QAQ0NPQP6G5MR4H801T/bin 
+[16:11:41] drain stdout: <empty> | stderr: 
+[16:11:42] take-over arm ended (cycle 7): watcher: FAILED - refusing to arm from a disposable validation checkout: /Users/nii236/.no-mistakes/worktrees/8d1633f2d204/01M63B1QAQ0NPQP6G5MR4H801T/bin 
+[16:11:42] drain stdout: <empty> | stderr: 
+[16:11:43] take-over arm ended (cycle 8): watcher: FAILED - refusing to arm from a disposable validation checkout: /Users/nii236/.no-mistakes/worktrees/8d1633f2d204/01M63B1QAQ0NPQP6G5MR4H801T/bin 
+[16:11:44] drain stdout: <empty> | stderr: 
+[16:11:45] take-over arm ended (cycle 9): watcher: FAILED - refusing to arm from a disposable validation checkout: /Users/nii236/.no-mistakes/worktrees/8d1633f2d204/01M63B1QAQ0NPQP6G5MR4H801T/bin 
+[16:11:45] drain stdout: <empty> | stderr: 
+[16:11:47] take-over arm ended (cycle 10): watcher: FAILED - refusing to arm from a disposable validation checkout: /Users/nii236/.no-mistakes/worktrees/8d1633f2d204/01M63B1QAQ0NPQP6G5MR4H801T/bin 
+[16:11:47] drain stdout: <empty> | stderr: 
+[16:11:48] take-over arm ended (cycle 11): watcher: FAILED - refusing to arm from a disposable validation checkout: /Users/nii236/.no-mistakes/worktrees/8d1633f2d204/01M63B1QAQ0NPQP6G5MR4H801T/bin 
+[16:11:48] drain stdout: <empty> | stderr: 
+[16:11:50] take-over arm ended (cycle 12): watcher: FAILED - refusing to arm from a disposable validation checkout: /Users/nii236/.no-mistakes/worktrees/8d1633f2d204/01M63B1QAQ0NPQP6G5MR4H801T/bin 
+[16:11:50] drain stdout: <empty> | stderr: 
+[16:11:51] take-over arm ended (cycle 13): watcher: FAILED - refusing to arm from a disposable validation checkout: /Users/nii236/.no-mistakes/worktrees/8d1633f2d204/01M63B1QAQ0NPQP6G5MR4H801T/bin 
+[16:11:51] drain stdout: <empty> | stderr: 
+[16:11:53] take-over arm ended (cycle 14): watcher: FAILED - refusing to arm from a disposable validation checkout: /Users/nii236/.no-mistakes/worktrees/8d1633f2d204/01M63B1QAQ0NPQP6G5MR4H801T/bin 
+[16:11:53] drain stdout: <empty> | stderr: 
+[16:11:54] take-over arm ended (cycle 15): watcher: FAILED - refusing to arm from a disposable validation checkout: /Users/nii236/.no-mistakes/worktrees/8d1633f2d204/01M63B1QAQ0NPQP6G5MR4H801T/bin 
+[16:11:55] drain stdout: <empty> | stderr: 
+[16:11:56] take-over arm ended (cycle 16): watcher: FAILED - refusing to arm from a disposable validation checkout: /Users/nii236/.no-mistakes/worktrees/8d1633f2d204/01M63B1QAQ0NPQP6G5MR4H801T/bin 
+[16:11:56] drain stdout: <empty> | stderr: 
+[16:11:57] take-over arm ended (cycle 17): watcher: FAILED - refusing to arm from a disposable validation checkout: /Users/nii236/.no-mistakes/worktrees/8d1633f2d204/01M63B1QAQ0NPQP6G5MR4H801T/bin 
+[16:11:58] drain stdout: <empty> | stderr: 
+[16:11:59] take-over arm ended (cycle 18): watcher: FAILED - refusing to arm from a disposable validation checkout: /Users/nii236/.no-mistakes/worktrees/8d1633f2d204/01M63B1QAQ0NPQP6G5MR4H801T/bin 
+[16:11:59] drain stdout: <empty> | stderr: 
+[16:12:00] take-over arm ended (cycle 19): watcher: FAILED - refusing to arm from a disposable validation checkout: /Users/nii236/.no-mistakes/worktrees/8d1633f2d204/01M63B1QAQ0NPQP6G5MR4H801T/bin 
+[16:12:01] drain stdout: <empty> | stderr: 
+[16:12:02] take-over arm ended (cycle 20): watcher: FAILED - refusing to arm from a disposable validation checkout: /Users/nii236/.no-mistakes/worktrees/8d1633f2d204/01M63B1QAQ0NPQP6G5MR4H801T/bin 
+[16:12:02] drain stdout: <empty> | stderr: 
+[16:12:03] take-over arm ended (cycle 21): watcher: FAILED - refusing to arm from a disposable validation checkout: /Users/nii236/.no-mistakes/worktrees/8d1633f2d204/01M63B1QAQ0NPQP6G5MR4H801T/bin 
+[16:12:04] drain stdout: <empty> | stderr: 
+[16:12:05] take-over arm ended (cycle 22): watcher: FAILED - refusing to arm from a disposable validation checkout: /Users/nii236/.no-mistakes/worktrees/8d1633f2d204/01M63B1QAQ0NPQP6G5MR4H801T/bin 
+[16:12:05] drain stdout: <empty> | stderr: 
+[16:12:06] take-over arm ended (cycle 23): watcher: FAILED - refusing to arm from a disposable validation checkout: /Users/nii236/.no-mistakes/worktrees/8d1633f2d204/01M63B1QAQ0NPQP6G5MR4H801T/bin 
+[16:12:07] drain stdout: <empty> | stderr: 
+[16:12:08] take-over arm ended (cycle 24): watcher: FAILED - refusing to arm from a disposable validation checkout: /Users/nii236/.no-mistakes/worktrees/8d1633f2d204/01M63B1QAQ0NPQP6G5MR4H801T/bin 
+[16:12:08] drain stdout: <empty> | stderr: 
+[16:12:10] take-over arm ended (cycle 25): watcher: FAILED - refusing to arm from a disposable validation checkout: /Users/nii236/.no-mistakes/worktrees/8d1633f2d204/01M63B1QAQ0NPQP6G5MR4H801T/bin 
+[16:12:10] drain stdout: <empty> | stderr: 
+[16:12:11] take-over arm ended (cycle 26): watcher: FAILED - refusing to arm from a disposable validation checkout: /Users/nii236/.no-mistakes/worktrees/8d1633f2d204/01M63B1QAQ0NPQP6G5MR4H801T/bin 
+[16:12:12] drain stdout: <empty> | stderr: 
+[16:12:13] take-over arm ended (cycle 27): watcher: FAILED - refusing to arm from a disposable validation checkout: /Users/nii236/.no-mistakes/worktrees/8d1633f2d204/01M63B1QAQ0NPQP6G5MR4H801T/bin 
+[16:12:13] drain stdout: <empty> | stderr: 
+[16:12:14] take-over arm ended (cycle 28): watcher: FAILED - refusing to arm from a disposable validation checkout: /Users/nii236/.no-mistakes/worktrees/8d1633f2d204/01M63B1QAQ0NPQP6G5MR4H801T/bin 
+[16:12:15] drain stdout: <empty> | stderr: 
+[16:12:16] take-over arm ended (cycle 29): watcher: FAILED - refusing to arm from a disposable validation checkout: /Users/nii236/.no-mistakes/worktrees/8d1633f2d204/01M63B1QAQ0NPQP6G5MR4H801T/bin 
+[16:12:16] drain stdout: <empty> | stderr: 
+[16:12:17] take-over arm ended (cycle 30): watcher: FAILED - refusing to arm from a disposable validation checkout: /Users/nii236/.no-mistakes/worktrees/8d1633f2d204/01M63B1QAQ0NPQP6G5MR4H801T/bin 
+[16:12:18] drain stdout: <empty> | stderr: 
+[16:12:19] take-over arm ended (cycle 31): watcher: FAILED - refusing to arm from a disposable validation checkout: /Users/nii236/.no-mistakes/worktrees/8d1633f2d204/01M63B1QAQ0NPQP6G5MR4H801T/bin 
+[16:12:19] drain stdout: <empty> | stderr: 
+[16:12:20] take-over arm ended (cycle 32): watcher: FAILED - refusing to arm from a disposable validation checkout: /Users/nii236/.no-mistakes/worktrees/8d1633f2d204/01M63B1QAQ0NPQP6G5MR4H801T/bin 
+[16:12:21] drain stdout: <empty> | stderr: 
+[16:12:22] take-over arm ended (cycle 33): watcher: FAILED - refusing to arm from a disposable validation checkout: /Users/nii236/.no-mistakes/worktrees/8d1633f2d204/01M63B1QAQ0NPQP6G5MR4H801T/bin 
+[16:12:22] drain stdout: <empty> | stderr: 
+[16:12:24] take-over arm ended (cycle 34): watcher: FAILED - refusing to arm from a disposable validation checkout: /Users/nii236/.no-mistakes/worktrees/8d1633f2d204/01M63B1QAQ0NPQP6G5MR4H801T/bin 
+[16:12:24] drain stdout: <empty> | stderr: 
+[16:12:25] take-over arm ended (cycle 35): watcher: FAILED - refusing to arm from a disposable validation checkout: /Users/nii236/.no-mistakes/worktrees/8d1633f2d204/01M63B1QAQ0NPQP6G5MR4H801T/bin 
+[16:12:26] drain stdout: <empty> | stderr: 
+[16:12:27] take-over arm ended (cycle 36): watcher: FAILED - refusing to arm from a disposable validation checkout: /Users/nii236/.no-mistakes/worktrees/8d1633f2d204/01M63B1QAQ0NPQP6G5MR4H801T/bin 
+[16:12:27] drain stdout: <empty> | stderr: 
+[16:12:28] take-over arm ended (cycle 37): watcher: FAILED - refusing to arm from a disposable validation checkout: /Users/nii236/.no-mistakes/worktrees/8d1633f2d204/01M63B1QAQ0NPQP6G5MR4H801T/bin 
+[16:12:29] drain stdout: <empty> | stderr: 
+[16:12:30] take-over arm ended (cycle 38): watcher: FAILED - refusing to arm from a disposable validation checkout: /Users/nii236/.no-mistakes/worktrees/8d1633f2d204/01M63B1QAQ0NPQP6G5MR4H801T/bin 
+[16:12:30] drain stdout: <empty> | stderr: 
+[16:12:31] take-over arm ended (cycle 39): watcher: FAILED - refusing to arm from a disposable validation checkout: /Users/nii236/.no-mistakes/worktrees/8d1633f2d204/01M63B1QAQ0NPQP6G5MR4H801T/bin 
+[16:12:32] drain stdout: <empty> | stderr: 
+[16:12:33] take-over arm ended (cycle 40): watcher: FAILED - refusing to arm from a disposable validation checkout: /Users/nii236/.no-mistakes/worktrees/8d1633f2d204/01M63B1QAQ0NPQP6G5MR4H801T/bin 
+[16:12:33] drain stdout: <empty> | stderr: 
+[16:12:35] take-over arm ended (cycle 41): watcher: FAILED - refusing to arm from a disposable validation checkout: /Users/nii236/.no-mistakes/worktrees/8d1633f2d204/01M63B1QAQ0NPQP6G5MR4H801T/bin 
+[16:12:35] drain stdout: <empty> | stderr: 
+[16:12:36] take-over arm ended (cycle 42): watcher: FAILED - refusing to arm from a disposable validation checkout: /Users/nii236/.no-mistakes/worktrees/8d1633f2d204/01M63B1QAQ0NPQP6G5MR4H801T/bin 
+[16:12:36] drain stdout: <empty> | stderr: 
+[16:12:38] take-over arm ended (cycle 43): watcher: FAILED - refusing to arm from a disposable validation checkout: /Users/nii236/.no-mistakes/worktrees/8d1633f2d204/01M63B1QAQ0NPQP6G5MR4H801T/bin 
+[16:12:38] drain stdout: <empty> | stderr: 
+[16:12:39] take-over arm ended (cycle 44): watcher: FAILED - refusing to arm from a disposable validation checkout: /Users/nii236/.no-mistakes/worktrees/8d1633f2d204/01M63B1QAQ0NPQP6G5MR4H801T/bin 
+[16:12:40] drain stdout: <empty> | stderr: 
+[16:12:41] take-over arm ended (cycle 45): watcher: FAILED - refusing to arm from a disposable validation checkout: /Users/nii236/.no-mistakes/worktrees/8d1633f2d204/01M63B1QAQ0NPQP6G5MR4H801T/bin 
+[16:12:41] drain stdout: <empty> | stderr: 
+[16:12:42] take-over arm ended (cycle 46): watcher: FAILED - refusing to arm from a disposable validation checkout: /Users/nii236/.no-mistakes/worktrees/8d1633f2d204/01M63B1QAQ0NPQP6G5MR4H801T/bin 
+[16:12:43] drain stdout: <empty> | stderr: 
+[16:12:44] take-over arm ended (cycle 47): watcher: FAILED - refusing to arm from a disposable validation checkout: /Users/nii236/.no-mistakes/worktrees/8d1633f2d204/01M63B1QAQ0NPQP6G5MR4H801T/bin 
+[16:12:44] drain stdout: <empty> | stderr: 
+[16:12:45] take-over arm ended (cycle 48): watcher: FAILED - refusing to arm from a disposable validation checkout: /Users/nii236/.no-mistakes/worktrees/8d1633f2d204/01M63B1QAQ0NPQP6G5MR4H801T/bin 
+[16:12:46] drain stdout: <empty> | stderr: 
+[16:12:47] take-over arm ended (cycle 49): watcher: FAILED - refusing to arm from a disposable validation checkout: /Users/nii236/.no-mistakes/worktrees/8d1633f2d204/01M63B1QAQ0NPQP6G5MR4H801T/bin 
+[16:12:47] drain stdout: <empty> | stderr: 
+[16:12:48] take-over arm ended (cycle 50): watcher: FAILED - refusing to arm from a disposable validation checkout: /Users/nii236/.no-mistakes/worktrees/8d1633f2d204/01M63B1QAQ0NPQP6G5MR4H801T/bin 
+[16:12:49] drain stdout: <empty> | stderr: 
+[16:12:50] take-over arm ended (cycle 51): watcher: FAILED - refusing to arm from a disposable validation checkout: /Users/nii236/.no-mistakes/worktrees/8d1633f2d204/01M63B1QAQ0NPQP6G5MR4H801T/bin 
+[16:12:50] drain stdout: <empty> | stderr: 
+[16:12:52] take-over arm ended (cycle 52): watcher: FAILED - refusing to arm from a disposable validation checkout: /Users/nii236/.no-mistakes/worktrees/8d1633f2d204/01M63B1QAQ0NPQP6G5MR4H801T/bin 
+[16:12:52] drain stdout: <empty> | stderr: 
+[16:12:53] take-over arm ended (cycle 53): watcher: FAILED - refusing to arm from a disposable validation checkout: /Users/nii236/.no-mistakes/worktrees/8d1633f2d204/01M63B1QAQ0NPQP6G5MR4H801T/bin 
+[16:12:54] drain stdout: <empty> | stderr: 
+[16:12:55] take-over arm ended (cycle 54): watcher: FAILED - refusing to arm from a disposable validation checkout: /Users/nii236/.no-mistakes/worktrees/8d1633f2d204/01M63B1QAQ0NPQP6G5MR4H801T/bin 
+[16:12:55] drain stdout: <empty> | stderr: 
+[16:12:56] take-over arm ended (cycle 55): watcher: FAILED - refusing to arm from a disposable validation checkout: /Users/nii236/.no-mistakes/worktrees/8d1633f2d204/01M63B1QAQ0NPQP6G5MR4H801T/bin 
+[16:12:57] drain stdout: <empty> | stderr: 
+[16:12:58] take-over arm ended (cycle 56): watcher: FAILED - refusing to arm from a disposable validation checkout: /Users/nii236/.no-mistakes/worktrees/8d1633f2d204/01M63B1QAQ0NPQP6G5MR4H801T/bin 
+[16:12:58] drain stdout: <empty> | stderr: 
+[16:12:59] take-over arm ended (cycle 57): watcher: FAILED - refusing to arm from a disposable validation checkout: /Users/nii236/.no-mistakes/worktrees/8d1633f2d204/01M63B1QAQ0NPQP6G5MR4H801T/bin 
+[16:13:00] drain stdout: <empty> | stderr: 
+[16:13:01] take-over arm ended (cycle 58): watcher: FAILED - refusing to arm from a disposable validation checkout: /Users/nii236/.no-mistakes/worktrees/8d1633f2d204/01M63B1QAQ0NPQP6G5MR4H801T/bin 
+[16:13:01] drain stdout: <empty> | stderr: 
+[16:13:02] take-over arm ended (cycle 59): watcher: FAILED - refusing to arm from a disposable validation checkout: /Users/nii236/.no-mistakes/worktrees/8d1633f2d204/01M63B1QAQ0NPQP6G5MR4H801T/bin 
+[16:13:03] drain stdout: <empty> | stderr: 
+[16:13:04] take-over arm ended (cycle 60): watcher: FAILED - refusing to arm from a disposable validation checkout: /Users/nii236/.no-mistakes/worktrees/8d1633f2d204/01M63B1QAQ0NPQP6G5MR4H801T/bin 
+[16:13:04] drain stdout: <empty> | stderr: 
+[16:13:06] take-over arm ended (cycle 61): watcher: FAILED - refusing to arm from a disposable validation checkout: /Users/nii236/.no-mistakes/worktrees/8d1633f2d204/01M63B1QAQ0NPQP6G5MR4H801T/bin 
+[16:13:06] drain stdout: <empty> | stderr: 
+[16:13:07] take-over arm ended (cycle 62): watcher: FAILED - refusing to arm from a disposable validation checkout: /Users/nii236/.no-mistakes/worktrees/8d1633f2d204/01M63B1QAQ0NPQP6G5MR4H801T/bin 
+[16:13:08] drain stdout: <empty> | stderr: 
+[16:13:09] take-over arm ended (cycle 63): watcher: FAILED - refusing to arm from a disposable validation checkout: /Users/nii236/.no-mistakes/worktrees/8d1633f2d204/01M63B1QAQ0NPQP6G5MR4H801T/bin 
+[16:13:09] drain stdout: <empty> | stderr: 
+[16:13:10] take-over arm ended (cycle 64): watcher: FAILED - refusing to arm from a disposable validation checkout: /Users/nii236/.no-mistakes/worktrees/8d1633f2d204/01M63B1QAQ0NPQP6G5MR4H801T/bin 
+[16:13:11] drain stdout: <empty> | stderr: 
+[16:13:12] take-over arm ended (cycle 65): watcher: FAILED - refusing to arm from a disposable validation checkout: /Users/nii236/.no-mistakes/worktrees/8d1633f2d204/01M63B1QAQ0NPQP6G5MR4H801T/bin 
+[16:13:12] drain stdout: <empty> | stderr: 
+[16:13:13] take-over arm ended (cycle 66): watcher: FAILED - refusing to arm from a disposable validation checkout: /Users/nii236/.no-mistakes/worktrees/8d1633f2d204/01M63B1QAQ0NPQP6G5MR4H801T/bin 
+[16:13:14] drain stdout: <empty> | stderr: 
+[16:13:15] take-over arm ended (cycle 67): watcher: FAILED - refusing to arm from a disposable validation checkout: /Users/nii236/.no-mistakes/worktrees/8d1633f2d204/01M63B1QAQ0NPQP6G5MR4H801T/bin 
+[16:13:15] drain stdout: <empty> | stderr: 
+[16:13:16] take-over arm ended (cycle 68): watcher: FAILED - refusing to arm from a disposable validation checkout: /Users/nii236/.no-mistakes/worktrees/8d1633f2d204/01M63B1QAQ0NPQP6G5MR4H801T/bin 
+[16:13:17] drain stdout: <empty> | stderr: 
+[16:13:18] take-over arm ended (cycle 69): watcher: FAILED - refusing to arm from a disposable validation checkout: /Users/nii236/.no-mistakes/worktrees/8d1633f2d204/01M63B1QAQ0NPQP6G5MR4H801T/bin 
+[16:13:18] drain stdout: <empty> | stderr: 
+[16:13:19] take-over arm ended (cycle 70): watcher: FAILED - refusing to arm from a disposable validation checkout: /Users/nii236/.no-mistakes/worktrees/8d1633f2d204/01M63B1QAQ0NPQP6G5MR4H801T/bin 
+[16:13:20] drain stdout: <empty> | stderr: 
+[16:13:21] take-over arm ended (cycle 71): watcher: FAILED - refusing to arm from a disposable validation checkout: /Users/nii236/.no-mistakes/worktrees/8d1633f2d204/01M63B1QAQ0NPQP6G5MR4H801T/bin 
+[16:13:21] drain stdout: <empty> | stderr: 
+[16:13:22] take-over arm ended (cycle 72): watcher: FAILED - refusing to arm from a disposable validation checkout: /Users/nii236/.no-mistakes/worktrees/8d1633f2d204/01M63B1QAQ0NPQP6G5MR4H801T/bin 
+[16:13:23] drain stdout: <empty> | stderr: 
+[16:13:24] take-over arm ended (cycle 73): watcher: FAILED - refusing to arm from a disposable validation checkout: /Users/nii236/.no-mistakes/worktrees/8d1633f2d204/01M63B1QAQ0NPQP6G5MR4H801T/bin 
+[16:13:24] drain stdout: <empty> | stderr: 
+[16:13:26] take-over arm output so far: watcher: FAILED - refusing to arm from a disposable validation checkout: /Users/nii236/.no-mistakes/worktrees/8d1633f2d204/01M63B1QAQ0NPQP6G5MR4H801T/bin 
+[16:13:26] .watcher-down now: acked:handling:67662.1793261491.Fx6tSi (acked was: acked:handling:67662.1793261491.Fx6tSi)
+awk: can't open file /var/folders/yn/y4sw263d2tvd_65258ydhn_40000gn/T//fm-lab.hXqxZF/state/.watch-cycle-exits.log
+ source line number 1
+[16:13:26] cycle-exit ledger reasons: 
+RESULT: wake cycles delivered during 90s observation after slow stop = 73; rearm-resurface lines = 0
+[16:13:29] lab removed: yes

@@ -1,0 +1,8 @@
+ok - watch-arm: --take-over attaches to a cycle the named arm does not own and leaves it running
+ok - watch-arm: --take-over owns a fresh cycle without a recovery wake and still surfaces queued work
+watcher: secondmate liveness check failed
+ok - watch-arm: takeover preserves self-exit downtime and surfaces a recovery wake
+/Users/nii236/.no-mistakes/evidence/01M63B1QAQ0NPQP6G5MR4H801T/run-takeover-all.sh: line 1357: [: : integer expression expected
+/Users/nii236/.no-mistakes/evidence/01M63B1QAQ0NPQP6G5MR4H801T/run-takeover-all.sh: line 1357: [: : integer expression expected
+ok - watch-arm: --take-over of a watcher inside its herdr event wait confirms the stop and resurfaces nothing
+ok - watch-arm: --take-over confirms a watcher slow to honor its stop and resurfaces nothing

@@ -1,0 +1,2 @@
+ok - watch-arm: --take-over confirms a watcher slow to honor its stop and resurfaces nothing
+exit=0
